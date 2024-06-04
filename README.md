@@ -12,13 +12,14 @@ for the training model. This file contains negatives and negative images with 10
 ![Free_Defect  ](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/597e3690-4dad-47ec-9c0f-dcca42ef18af)
 ![Finger_Interruption ](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/2df9e615-b4d5-445f-aaf7-c7a56828a7db)
 ![Thick_Line  ](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/77e87974-3fd2-4d14-a9c5-c16b26cdf8cc)
-![image](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/157bdc27-02de-4c13-8b27-4f0965660790)
+![image](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/88cb7265-a079-4890-9977-394dcd6855ce)
+
 
 # Output 
 ![image](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/0702abe1-6d8b-46ea-99fa-21a174528a9c)
 ![image](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/265376c6-4c4c-4a04-8121-77298673c0d7)
+![image](https://github.com/Omkondekar02/Defect-Detection-EL-Images/assets/102482472/91d627fd-630a-4c66-b014-fc3d2e5841d0)
 
-![Uploading image.png…]()
 
 
 
